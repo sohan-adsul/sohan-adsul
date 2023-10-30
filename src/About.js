@@ -5,14 +5,14 @@ const About = () => {
   return (
     <div className="about-container">
       <h1>
-        <b>About Sunsense</b>
+        <b>About Weathernaut</b>
       </h1>
 
       <p>
-        Sunsense is your go-to source for precise and up-to-date weather
+        Weathernaut is your go-to source for precise and up-to-date weather
         information. Our mission is to keep you informed and empowered with
         accurate forecasts, interactive radar, and customizable alerts. With a
-        user-friendly interface and hyper-localized data, Sunsense ensures
+        user-friendly interface and hyper-localized data, Weathernaut ensures
         you're always prepared for whatever Mother Nature has in store.
       </p>
       <h2>
@@ -140,7 +140,7 @@ const About = () => {
       <p>
         For questions or feedback, reach out to{" "}
         <a href="mailto:sohan05adsul@gmail.com">sohan05adsul@gmail.com</a>.
-        Sunsense - Your Weather, Your Way!
+        Weathernaut - Your Weather, Your Way!
       </p>
     </div>
   );
