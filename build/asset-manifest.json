@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.6847a691.css",
-    "main.js": "/react-gh-pages/static/js/main.7d5ac553.js",
-    "static/js/787.d9312eb8.chunk.js": "/react-gh-pages/static/js/787.d9312eb8.chunk.js",
-    "static/media/weather-image.jpg": "/react-gh-pages/static/media/weather-image.60b7044e21e509c67747.jpg",
-    "index.html": "/react-gh-pages/index.html",
-    "main.6847a691.css.map": "/react-gh-pages/static/css/main.6847a691.css.map",
-    "main.7d5ac553.js.map": "/react-gh-pages/static/js/main.7d5ac553.js.map",
-    "787.d9312eb8.chunk.js.map": "/react-gh-pages/static/js/787.d9312eb8.chunk.js.map"
+    "main.css": "/sohan-adsul/static/css/main.d8845925.css",
+    "main.js": "/sohan-adsul/static/js/main.3c1c7d2c.js",
+    "static/js/787.d9312eb8.chunk.js": "/sohan-adsul/static/js/787.d9312eb8.chunk.js",
+    "static/media/weather-image.jpg": "/sohan-adsul/static/media/weather-image.60b7044e21e509c67747.jpg",
+    "index.html": "/sohan-adsul/index.html",
+    "main.d8845925.css.map": "/sohan-adsul/static/css/main.d8845925.css.map",
+    "main.3c1c7d2c.js.map": "/sohan-adsul/static/js/main.3c1c7d2c.js.map",
+    "787.d9312eb8.chunk.js.map": "/sohan-adsul/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6847a691.css",
-    "static/js/main.7d5ac553.js"
+    "static/css/main.d8845925.css",
+    "static/js/main.3c1c7d2c.js"
   ]
 }

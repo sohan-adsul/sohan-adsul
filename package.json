@@ -1,7 +1,7 @@
 {
   "name": "weather-app",
   "version": "0.1.0",
-  "homepage": "https://sohan-adsul.github.io/weathernaut",
+  "homepage": "https://sohan-adsul.github.io/sohan-adsul",
   "private": true,
   "dependencies": {
     "@iconscout/react-unicons": "^2.0.2",
